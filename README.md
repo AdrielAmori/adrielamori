@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-amorim-738ba720/)
 
 ![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielamori&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielamori&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,4 +17,11 @@
     <img alt= "Error" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt= "Error" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt= "Error" src= "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</div>
+</div> <br/>
+
+Apaixonado por tecnologias que melhoram a vida dos usuários.
+
+### Cursando:
+
+ - Escola DNC - Formação Full Stack
+ - Faculdade Uniateneu - Análise e Desenvolvimento de Sistema
